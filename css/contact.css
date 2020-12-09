@@ -1,0 +1,49 @@
+body{
+    font-family: Open Sans;
+}
+ul.lista{
+    list-style: none;
+    background-color: rgba(255, 255, 255, 0.5);
+    text-align: end;
+    margin-top: 30px;
+    padding: 20px;
+  
+}
+li.item-lista{
+    display: inline-block;
+    text-align: center;
+}
+a.enlace{
+    text-decoration: none;
+    color: black;
+}
+div.grupo__iconos{
+    text-align: end;
+    margin-top: 10px;
+}
+i{
+    color:black
+}
+h1.titulo{
+    font-family: Raleway;
+    font-weight: 900;
+    font-size: 72px;
+}
+h2.subtitulo{
+    font-family: Raleway;
+    font-size: 30px;
+}
+iframe{
+    width: 100%;
+    height: 450px;
+}
+div.contacto label{
+    font-weight: bold;
+}
+div.contacto .nombre{
+    color: rgb(58, 211, 140);
+}
+div.dato a{
+    color: rgb(177, 165, 165);
+    text-decoration: none;
+}

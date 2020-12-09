@@ -1,0 +1,46 @@
+body{
+    font-family: Open Sans;
+}
+div.contenedor__fondo{
+    background-image: url("../img/emilia-music-top.jpg");
+    padding: 0 5px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+ul.lista{
+    list-style: none;
+    background-color: rgba(255, 255, 255, 0.5);
+    text-align: end;
+    margin-top: 30px;
+    padding: 20px;
+  
+}
+li.item-lista{
+    display: inline-block;
+    text-align: center;
+}
+a.enlace{
+    text-decoration: none;
+    color: black;
+}
+div.grupo__iconos{
+    text-align: end;
+    margin-top: 10px;
+}
+i{
+    color:black
+}
+h1.titulo{
+    font-family: Raleway;
+    font-size: 73px;
+}
+.subtitulo{
+    font-family: Raleway;
+}
+ul{
+    list-style: none;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
